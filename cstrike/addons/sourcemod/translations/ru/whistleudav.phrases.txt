@@ -1,0 +1,32 @@
+"Phrases"
+{
+	"YouWhistleTo"
+	{
+		"#format"	"{1:s}, {2:s}"
+		"ru"		"Вы свистинули {2}{1}"
+	}
+	
+	"WhistleToYou"
+	{
+		"#format"	"{1:s}, {2:s}"
+		"ru"		"{2}{1} {default}свистит вам"
+	}
+	
+	"Distance"
+	{
+		"#format"	"{1:s}, {2:s}"
+		"ru"		"{2}{1} {default}слишком далеко"
+	}
+	
+	"Cooldown"
+	{
+		"#format"	"{1:d}"
+		"ru"		"Часто будешь свистеть - денег не будет {1} сек"
+	}
+	
+	"LooseMoney"
+	{
+		"#format"	"{1:d}"
+		"ru"		"Ой, вы просвистели {1}$"
+	}
+}
