@@ -9,6 +9,9 @@ There is chance `1:50` to play fun sound.
 Chance `1:5` to loose money after whistle.
 <br><br>
 
+You can use `whs` in console to whistle. Bind it to button what you prefer. Also `!whs` and `/whs` works too, but who need it :)
+<br><br>
+
 Possible to set `min/max pitch` to sounds for fun. Basically its used to slightly tweak played sound to hear it different.
 <br><br>
 
