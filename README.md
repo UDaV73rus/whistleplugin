@@ -1,12 +1,16 @@
 # Whistle Plugin for Counter-Strike: Source
 Press E (use-key) to whistle to player. Pretty funny, I think...
+<br><br>
+
 Whistle hear only you and target.
 
 There is chance `1:50` to play fun sound.
+
 Chance `1:5` to loose money after whistle.
+<br><br>
 
 Possible to set `min/max pitch` to sounds for fun. Basically its used to slightly tweak played sound to hear it different.
-
+<br><br>
 
 If you want to add your own sounds, check:
 ```
