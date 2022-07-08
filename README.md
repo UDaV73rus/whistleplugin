@@ -1,26 +1,26 @@
 # Whistle Plugin for Counter-Strike: Source
-Press E (use-key) to whistle to player. Pretty funny, I think...
+Press E (use-key) to whistle to a player you're aiming at. Pretty funny, I think...
 <br><br>
 
 Whistle hear only you and target.
 
-There is chance `1:50` to play fun sound.
+There's `1:50` chance to play a funny sound.
 
-Chance `1:5` to loose money after whistle.
+And a `1:5` chance to lose money after whistling.
 <br><br>
 
-You can use `whs` in console to whistle. Bind it to button what you prefer. Also `!whs` and `/whs` works too, but who need it :)
+You can use `whs` in console to whistle. Bind it to a button that you prefer. Also `!whs` and `/whs` works too, but who needs it :)
 <br><br>
 
-Possible to set `min/max pitch` to sounds for fun. Basically its used to slightly tweak played sound to hear it different.
+It's possible to set `min/max pitch` of sounds for fun. Basically it's used to slightly tweak played sound to hear it differently.
 <br><br>
 
-If you want to add your own sounds, check:
+If you want to add your own sounds, check out:
 ```
 #define SOUNDFORMAT ".mp3"
 #define SOUNDQUANTITY 4	// except zero
 ```
-whistle0 is fun sound played when fun chance shots. If you dont have whistle0 sound, set `whs_funnychance "0"`
+whistle0 is the funny sound played when the funny chance procs. If you don't have the whistle0 sound, use `whs_funnychance "0"`
 
 ## Console Variariables:
 <details>
