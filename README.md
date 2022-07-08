@@ -12,7 +12,7 @@ And a `1:5` chance to lose money after whistling.
 You can use `whs` in console to whistle. Bind it to a button that you prefer. Also `!whs` and `/whs` works too, but who needs it :)
 <br><br>
 
-It's possible to set `min/max pitch` of sounds for fun. Basically it's used to slightly tweak played sound to hear it different.
+It's possible to set `min/max pitch` of sounds for fun. Basically it's used to slightly tweak played sound to hear it differently.
 <br><br>
 
 If you want to add your own sounds, check out:
