@@ -4,7 +4,7 @@ Press E (use-key) to whistle to a player you're aiming at. Pretty funny, I think
 
 Whistle hear only you and target.
 
-There's `1:50` chance to play a funny sound.
+There's `1:50` chance to play the fun sound.
 
 And a `1:5` chance to lose money after whistling.
 <br><br>
@@ -20,7 +20,7 @@ If you want to add your own sounds, check out:
 #define SOUNDFORMAT ".mp3"
 #define SOUNDQUANTITY 4	// except zero
 ```
-whistle0 is the funny sound played when the funny chance procs. If you don't have the whistle0 sound, use `whs_funnychance "0"`
+whistle0 is the fun sound played when the fun chance procs. If you don't have the whistle0 sound, use `whs_funnychance "0"`
 
 ## Console Variariables:
 <details>
