@@ -2,19 +2,19 @@
 {
 	"YouWhistleTo"
 	{
-		"#format"	"{1:s}, {2:s}"
+		"#format"	"{1:s},{2:s}"
 		"ru"		"Вы свистинули {2}{1}"
 	}
 	
 	"WhistleToYou"
 	{
-		"#format"	"{1:s}, {2:s}"
+		"#format"	"{1:s},{2:s}"
 		"ru"		"{2}{1} {default}свистит вам"
 	}
 	
 	"Distance"
 	{
-		"#format"	"{1:s}, {2:s}"
+		"#format"	"{1:s},{2:s}"
 		"ru"		"{2}{1} {default}слишком далеко"
 	}
 	
